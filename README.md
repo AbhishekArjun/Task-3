@@ -35,8 +35,7 @@ We are using the **California Housing Dataset** from Scikit-learn.
   - MSE: ~0.53  
   - R²: ~0.47  
 
-📈 **Regression Line:**  
-![Regression Plot](https://miro.medium.com/v2/resize:fit:720/format:webp/1*H1-c9DqeywKmtjKN50FJzA.png)
+
 
 ---
 
